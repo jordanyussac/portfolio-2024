@@ -76,7 +76,7 @@ export const navItems = [
       des: "Summarize An Articles with OpenAI GPT-4 API",
       img: "/p1.png",
       iconLists: ["/re.svg", "/tail.svg", "/js.svg"],
-      link: "/j-sumz.netlify.app/",
+      link: "https://j-sumz.netlify.app/",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Video player website provides seamless and user-friendly streaming experience for users to enjoy their favorite videos",
       img: "/p2.png",
       iconLists: ["/re.svg", "/tail.svg", "/js.svg"],
-      link: "/ui.yoom.com",
+      link: "https://j-tube.netlify.app/",
     },
   ];
   
